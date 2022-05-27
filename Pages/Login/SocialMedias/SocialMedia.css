@@ -1,0 +1,12 @@
+.social-medias
+{
+    
+    display: flex;
+    gap: 20px;
+    margin-top: 35px;
+}
+._btn
+{
+  width:130px;
+  
+}

@@ -1,0 +1,56 @@
+.rightside {
+  /* margin: 10rem; */
+  width: 35%;
+  margin-left: 10rem;
+  margin-top: 5rem;
+  font-size: 13px;
+  text-align: start;
+}
+.minimal-text
+{
+    color: #212B36;
+    margin:0px;
+}
+.line
+{
+  position: relative;
+  border-top: 1px solid #E0E4E8;
+  margin-top: 30px;
+}
+.or
+{
+position: absolute;
+top: -30px;
+background-color:#f9fafb ;
+left: 45%;
+color: #b3b3b3 ;
+padding: 10px;
+}
+.authen
+{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.button
+{
+  width:100%;
+  margin-top:5%;
+  padding:3.5%;
+  border-radius:10px;
+  border:none;
+  background-Color:#2065d1;
+  cursor:pointer;
+  box-shadow: 0px 2px 22px 8px rgba(225,233,246,1);
+  transition: all 0.1s;
+}
+.button:hover
+{
+  background-Color:#133C96;
+}
+.text
+{
+  font-weight: bold;
+  color: white;
+}
